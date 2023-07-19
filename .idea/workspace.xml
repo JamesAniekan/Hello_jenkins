@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="48d73098-1777-4292-a6c5-2c1cb4ffa58d" name="Changes" comment="" />
+    <list default="true" id="48d73098-1777-4292-a6c5-2c1cb4ffa58d" name="Changes" comment="First pull">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entry.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SnEN83CwaQVMq08fglTIAsxyJ8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,6 +39,14 @@
       <option name="presentableId" value="Default" />
       <updated>1689773904570</updated>
     </task>
+    <task id="LOCAL-00001" summary="First pull">
+      <created>1689773971045</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689773971045</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -43,5 +59,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First pull" />
+    <option name="LAST_COMMIT_MESSAGE" value="First pull" />
   </component>
 </project>
